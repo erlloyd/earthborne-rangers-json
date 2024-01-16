@@ -1,0 +1,151 @@
+[
+    {
+        "id": "terrain",
+        "name": "Terrain",
+        "sets": [
+            {
+                "id": "general",
+                "name": "General",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "the_valley",
+                "name": "The Valley",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "river",
+                "name": "River",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "ravine",
+                "name": "Ravine",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "swamp",
+                "name": "Swamp",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "grassland",
+                "name": "Grassland",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "old_growth",
+                "name": "Old-Growth",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "mountain_pass",
+                "name": "Mountain Pass",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "lakeshore",
+                "name": "Lakeshore",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "woods",
+                "name": "Woods",
+                "__typename": "rangers_set_localized"
+            }
+        ],
+        "__typename": "rangers_set_type_localized"
+    },
+    {
+        "id": "specialty",
+        "name": "Specialty",
+        "sets": [
+            {
+                "id": "explorer",
+                "name": "Explorer",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "shaper",
+                "name": "Shaper",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "conciliator",
+                "name": "Conciliator",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "artificer",
+                "name": "Artificer",
+                "__typename": "rangers_set_localized"
+            }
+        ],
+        "__typename": "rangers_set_type_localized"
+    },
+    {
+        "id": "background",
+        "name": "Background",
+        "sets": [
+            {
+                "id": "traveler",
+                "name": "Traveler",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "shepherd",
+                "name": "Shepherd",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "forager",
+                "name": "Forager",
+                "__typename": "rangers_set_localized"
+            },
+            {
+                "id": "artisan",
+                "name": "Artisan",
+                "__typename": "rangers_set_localized"
+            }
+        ],
+        "__typename": "rangers_set_type_localized"
+    },
+    {
+        "id": "misc",
+        "name": "Miscellaneous",
+        "sets": [
+            {
+                "id": "personalities",
+                "name": "Personalities"
+            },
+            {
+                "id": "lingering_injury",
+                "name": "Lingering Injury"
+            },
+            {
+                "id": "weather",
+                "name": "Weather"
+            },
+            {
+                "id": "aspects",
+                "name": "Aspects"
+            },
+            {
+                "id": "mission",
+                "name": "Mission"
+            },
+            {
+                "id": "location",
+                "name": "Location"
+            },
+            {
+                "id": "challenge",
+                "name": "Challenge"
+            },
+            {
+                "id": "reward",
+                "name": "Reward"
+            }
+        ]
+    }
+]

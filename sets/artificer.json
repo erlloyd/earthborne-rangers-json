@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Masterful Engineer",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_1.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 1
+    },
+    {
+        "name": "Exceptional-Tinkerer",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_2.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 1
+    },
+    {
+        "name": "Ferinodex",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_3.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "Carbonforged Cable",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_4.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "Dayhowler",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_5.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "Trail Markers",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_6.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "Spiderpad Gloves",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_7.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "Wrist-mounted Darter",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_8.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "Infusion Canteen",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_9.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "Memorill Sketchpad",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_10.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "",
+        "code": "",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_11.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "",
+        "code": "",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_12.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "",
+        "code": "",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_13.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    },
+    {
+        "name": "",
+        "code": "",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_specialities/artificer/artificer_14.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2
+    }
+]
