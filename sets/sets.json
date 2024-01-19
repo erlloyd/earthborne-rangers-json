@@ -1,133 +1,108 @@
 [
     {
-        "id": "terrain",
-        "name": "Terrain",
+        "name": "Path Sets",
         "sets": [
             {
                 "id": "general",
-                "name": "General",
-                "__typename": "rangers_set_localized"
+                "name": "General"
             },
             {
                 "id": "the_valley",
-                "name": "The Valley",
-                "__typename": "rangers_set_localized"
+                "name": "The Valley"
             },
             {
                 "id": "river",
-                "name": "River",
-                "__typename": "rangers_set_localized"
+                "name": "River"
             },
             {
                 "id": "ravine",
-                "name": "Ravine",
-                "__typename": "rangers_set_localized"
+                "name": "Ravine"
             },
             {
                 "id": "swamp",
-                "name": "Swamp",
-                "__typename": "rangers_set_localized"
+                "name": "Swamp"
             },
             {
                 "id": "grassland",
-                "name": "Grassland",
-                "__typename": "rangers_set_localized"
+                "name": "Grassland"
             },
             {
                 "id": "old_growth",
-                "name": "Old-Growth",
-                "__typename": "rangers_set_localized"
+                "name": "Old-Growth"
             },
             {
                 "id": "mountain_pass",
-                "name": "Mountain Pass",
-                "__typename": "rangers_set_localized"
+                "name": "Mountain Pass"
             },
             {
                 "id": "lakeshore",
-                "name": "Lakeshore",
-                "__typename": "rangers_set_localized"
+                "name": "Lakeshore"
             },
             {
                 "id": "woods",
-                "name": "Woods",
-                "__typename": "rangers_set_localized"
+                "name": "Woods"
             }
-        ],
-        "__typename": "rangers_set_type_localized"
+        ]
     },
     {
-        "id": "specialty",
-        "name": "Specialty",
+        "name": "Specialties",
         "sets": [
             {
                 "id": "explorer",
-                "name": "Explorer",
-                "__typename": "rangers_set_localized"
+                "name": "Explorer"
             },
             {
                 "id": "shaper",
-                "name": "Shaper",
-                "__typename": "rangers_set_localized"
+                "name": "Shaper"
             },
             {
                 "id": "conciliator",
-                "name": "Conciliator",
-                "__typename": "rangers_set_localized"
+                "name": "Conciliator"
             },
             {
                 "id": "artificer",
-                "name": "Artificer",
-                "__typename": "rangers_set_localized"
+                "name": "Artificer"
             }
-        ],
-        "__typename": "rangers_set_type_localized"
+        ]
     },
     {
-        "id": "background",
-        "name": "Background",
+        "name": "Backgrounds",
         "sets": [
             {
                 "id": "traveler",
-                "name": "Traveler",
-                "__typename": "rangers_set_localized"
+                "name": "Traveler"
             },
             {
                 "id": "shepherd",
-                "name": "Shepherd",
-                "__typename": "rangers_set_localized"
+                "name": "Shepherd"
             },
             {
                 "id": "forager",
-                "name": "Forager",
-                "__typename": "rangers_set_localized"
+                "name": "Forager"
             },
             {
                 "id": "artisan",
-                "name": "Artisan",
-                "__typename": "rangers_set_localized"
+                "name": "Artisan"
             }
-        ],
-        "__typename": "rangers_set_type_localized"
+        ]
     },
     {
-        "id": "misc",
         "name": "Miscellaneous",
         "sets": [
             {
-                "id": "personalities",
+                "id": "personality",
                 "name": "Personalities"
             },
             {
-                "id": "lingering_injury",
-                "name": "Lingering Injury"
+                "id": "malady",
+                "name": "Malady"
             },
             {
                 "id": "weather",
                 "name": "Weather"
             },
             {
-                "id": "aspects",
+                "id": "aspect",
                 "name": "Aspects"
             },
             {
@@ -140,11 +115,15 @@
             },
             {
                 "id": "challenge",
-                "name": "Challenge"
+                "name": "Challenge Deck"
             },
             {
                 "id": "reward",
-                "name": "Reward"
+                "name": "Rewards"
+            },
+            {
+                "id": "reference_card",
+                "name": "Reference Cards"
             }
         ]
     }

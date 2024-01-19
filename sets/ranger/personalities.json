@@ -1,114 +1,146 @@
 [
     {
         "name": "Insightful",
-        "code": "insightful",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_1.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01093",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Vigilant",
-        "code": "vigilant",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_2.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01094",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Perceptive",
-        "code": "perceptive",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_3.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01095",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Thorough",
-        "code": "thorough",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_4.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01096",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Passionate",
-        "code": "passionate",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_5.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01097",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Balanced",
-        "code": "balanced",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_6.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01098",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Determined",
-        "code": "determined",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_7.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01099",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Bold",
-        "code": "bold",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_8.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01100",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Meticulous",
-        "code": "meticulous",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_9.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01101",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Versatile",
-        "code": "versatile",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_10.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01102",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Inventive",
-        "code": "inventive",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_11.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01103",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Astute",
-        "code": "astute",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_12.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01104",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Persuasive",
-        "code": "persuasive",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_13.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01105",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Thoughtful",
-        "code": "thoughtful",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_14.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01106",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Engaging",
-        "code": "engaging",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_15.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01107",
+        "setType": "Miscellaneous",
+        "set": "personality"
     },
     {
         "name": "Compassionate",
-        "code": "compassionate",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_common/personality/personality_16.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
-        "qtd": 2
+        "qtd": 2,
+        "code": "01108",
+        "setType": "Miscellaneous",
+        "set": "personality"
     }
 ]

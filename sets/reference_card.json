@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Common Tests",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/common_tests.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 4,
+        "setType": "Miscellaneous",
+        "set": "reference_card"
+    },
+    {
+        "name": "Round Structure",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/round_structure.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 4,
+        "setType": "Miscellaneous",
+        "set": "reference_card"
+    }
+]

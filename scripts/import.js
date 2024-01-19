@@ -104,111 +104,110 @@ const doImport = async () => {
     allCardMap[c.title] = c;
   });
 
-  allCardArray.forEach((c) => {
-    const rc = rangerCardMap[c.title];
-    if (rc) {
-      c.code = rc.id;
-    }
-  });
+  // allCardArray.forEach((c) => {
+  //   const rc = rangerCardMap[c.title];
+  //   if (rc) {
+  //     c.code = rc.id;
+  //   }
+  // });
 
-  rangerCardArray.forEach((rc) => {
-    if (!allCardMap[rc.name] || !allCardMap[rc.name].code) {
-      console.log(
-        "WARNING - Didn't find a card with name " + rc.name + ". Adding it."
-      );
+  // rangerCardArray.forEach((rc) => {
+  //   if (!allCardMap[rc.name] || !allCardMap[rc.name].code) {
+  //     console.log(
+  //       "WARNING - Didn't find a card with name " + rc.name + ". Adding it."
+  //     );
 
-      allCards.data.children = allCards.data.children.concat([
-        {
-          code: rc.id,
-          title: rc.name,
-          category: "Ranger",
-          subcategory: rc.set_name,
-          image: "https://static.rangersdb.com" + rc.imagesrc,
-        },
-      ]);
-    }
-  });
+  //     allCards.data.children = allCards.data.children.concat([
+  //       {
+  //         code: rc.id,
+  //         title: rc.name,
+  //         category: "Ranger",
+  //         subcategory: rc.set_name,
+  //         image: "https://static.rangersdb.com" + rc.imagesrc,
+  //       },
+  //     ]);
+  //   }
+  // });
 
   // Load the TTS JSON
-  const ttsJsonString = fs.readFileSync(
-    path.join(rawDir, "Earthborne_Rangers.json")
-  );
-  const ttsJson = JSON.parse(ttsJsonString);
+  // const ttsJsonString = fs.readFileSync(
+  //   path.join(rawDir, "Earthborne_Rangers.json")
+  // );
+  // const ttsJson = JSON.parse(ttsJsonString);
 
-  const cardObjectStates = ttsJson.ObjectStates.filter(
-    (os) =>
-      os.ContainedObjects &&
-      os.ContainedObjects.some((o) => o.Name === "Card" || o.Name === "Deck")
-  )
-    .filter((os) => os.Nickname !== "Pre-made Rangers")
-    .map((os) => {
-      if (os.GUID === "875d54") {
-        os.Nickname = "Locations";
-      } else if (os.GUID === "6b003b") {
-        os.Nickname = "Challenge Cards";
-      } else if (os.GUID === "45db72") {
-        os.Nickname = "Path, Reward, Malady cards";
-      }
-      return os;
-    });
+  // const cardObjectStates = ttsJson.ObjectStates.filter(
+  //   (os) =>
+  //     os.ContainedObjects &&
+  //     os.ContainedObjects.some((o) => o.Name === "Card" || o.Name === "Deck")
+  // )
+  //   .filter((os) => os.Nickname !== "Pre-made Rangers")
+  //   .map((os) => {
+  //     if (os.GUID === "875d54") {
+  //       os.Nickname = "Locations";
+  //     } else if (os.GUID === "6b003b") {
+  //       os.Nickname = "Challenge Cards";
+  //     } else if (os.GUID === "45db72") {
+  //       os.Nickname = "Path, Reward, Malady cards";
+  //     }
+  //     return os;
+  //   });
 
   // Write out the card names
-  const printIndex = 6;
+  // const printIndex = 6;
 
-  const imageMap = {};
+  // const imageMap = {};
 
-  cardObjectStates.forEach((cos, cosIndex) => {
-    if (cosIndex !== printIndex) return;
+  // cardObjectStates.forEach((cos, cosIndex) => {
+  //   if (cosIndex !== printIndex) return;
 
-    console.log(
-      "working with " +
-        cos.Nickname +
-        " (" +
-        cos.GUID +
-        ", " +
-        cos.ContainedObjects.length +
-        " items)"
-    );
-    let output = [];
-    cos.ContainedObjects.forEach((co, index) => {
-      console.log(co.Name);
-      if (co.Name === "Card") {
-        if (!co.Nickname) {
-          co.Nickname = `${index} ${cos.Nickname}`;
-        }
+  //   console.log(
+  //     "working with " +
+  //       cos.Nickname +
+  //       " (" +
+  //       cos.GUID +
+  //       ", " +
+  //       cos.ContainedObjects.length +
+  //       " items)"
+  //   );
+  //   let output = [];
+  //   cos.ContainedObjects.forEach((co, index) => {
+  //     if (co.Name === "Card") {
+  //       if (!co.Nickname) {
+  //         co.Nickname = `${index} ${cos.Nickname}`;
+  //       }
 
-        if (!co.CustomDeck) {
-          console.log("No custom deck for " + co.Nickname);
-          return;
-        }
+  //       if (!co.CustomDeck) {
+  //         console.log("No custom deck for " + co.Nickname);
+  //         return;
+  //       }
 
-        Object.values(co.CustomDeck).forEach((v) => {
-          imageMap[v.FaceURL] = true;
-          imageMap[v.BackURL] = true;
-        });
+  //       Object.values(co.CustomDeck).forEach((v) => {
+  //         imageMap[v.FaceURL] = true;
+  //         imageMap[v.BackURL] = true;
+  //       });
 
-        //remove trailing number from card
-        const nameParts = co.Nickname.split(" ");
-        if (Number.parseInt(nameParts[nameParts.length - 1])) {
-          co.Nickname = nameParts.slice(0, -1).join(" ");
-        }
+  //       //remove trailing number from card
+  //       const nameParts = co.Nickname.split(" ");
+  //       if (Number.parseInt(nameParts[nameParts.length - 1])) {
+  //         co.Nickname = nameParts.slice(0, -1).join(" ");
+  //       }
 
-        // console.log("Found Card " + co.Nickname);
-      }
-    });
+  //       // console.log("Found Card " + co.Nickname);
+  //     }
+  //   });
 
-    // console.log(output);
+  // console.log(output);
 
-    // fs.writeFileSync(
-    //   path.join(setsDir, `images.json`),
-    //   JSON.stringify(Object.keys(imageMap), null, 4)
-    // );
+  // fs.writeFileSync(
+  //   path.join(setsDir, `images.json`),
+  //   JSON.stringify(Object.keys(imageMap), null, 4)
+  // );
 
-    // fs.writeFileSync(
-    //   path.join(setsDir, `${cos.Nickname}.json`),
-    //   JSON.stringify(output, null, 4)
-    // );
-  });
+  // fs.writeFileSync(
+  //   path.join(setsDir, `${cos.Nickname}.json`),
+  //   JSON.stringify(output, null, 4)
+  // );
+  // });
 
   // const tagMap = {};
   // const tagMapCounts = {};
@@ -237,24 +236,55 @@ const doImport = async () => {
   //   }))
   // );
 
-  if (DRY_RUN) {
-    console.log(sets.data.data.sets);
-  } else {
-    // fs.writeFileSync(
-    //   path.join(setsDir, "sets.json"),
-    //   JSON.stringify(sets.data.data.sets, null, 4)
-    // );
+  // fs.writeFileSync(
+  //   path.join(setsDir, "sets.json"),
+  //   JSON.stringify(sets.data.data.sets, null, 4)
+  // );
 
-    fs.writeFileSync(
-      path.join(rawDir, "allCards.json"),
-      JSON.stringify(allCards.data.children, null, 4)
-    );
+  fs.writeFileSync(
+    path.join(rawDir, "allCards.json"),
+    JSON.stringify(allCards.data.children, null, 4)
+  );
 
-    fs.writeFileSync(
-      path.join(rawDir, "rangerCards.json"),
-      JSON.stringify(rangerCards.data.data.cards, null, 4)
-    );
-  }
+  fs.writeFileSync(
+    path.join(rawDir, "rangerCards.json"),
+    JSON.stringify(rangerCards.data.data.cards, null, 4)
+  );
+
+  // Now load the ranger cards and annotate
+  const rangerFiles = fs
+    .readdirSync(path.join(setsDir, "ranger"))
+    .map((f) => path.join(setsDir, "ranger", f));
+
+  rangerFiles.push(path.join(setsDir, "rewards.json"));
+  rangerFiles.forEach((file) => {
+    const rangerCardsFromFile = JSON.parse(fs.readFileSync(file));
+
+    rangerCardsFromFile.forEach((c) => {
+      const rc = rangerCardMap[c.name];
+      if (rc) {
+        if (rc.mapped) {
+          console.log("WARNING - Already mapping " + c.name);
+        }
+
+        c.code = rangerCardMap[c.name].id;
+        rangerCardMap[c.name].mapped = true;
+      } else {
+        console.log(
+          `ERROR - didn't find rangersdb entry for ${c.name} in ${file}`
+        );
+      }
+    });
+
+    fs.writeFileSync(file, JSON.stringify(rangerCardsFromFile, null, 4));
+  });
+
+  // See if there were any cards that were from rangersdb but weren't found in local files
+  Object.values(rangerCardMap).forEach((rc) => {
+    if (!rc.mapped) {
+      console.log(`WARNING - never mapped ${rc.name}`);
+    }
+  });
 };
 
 try {

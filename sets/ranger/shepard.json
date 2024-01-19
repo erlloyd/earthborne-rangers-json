@@ -1,0 +1,83 @@
+[
+    {
+        "name": "One Eye Open",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_backgrounds/shepard/shepard_1.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2,
+        "code": "01019",
+        "setType": "Backgrounds",
+        "set": "shepard"
+    },
+    {
+        "name": "Riri the Sparrow Hawk",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_backgrounds/shepard/shepard_2.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2,
+        "code": "01020",
+        "setType": "Backgrounds",
+        "set": "shepard"
+    },
+    {
+        "name": "A Gentle Nudge",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_backgrounds/shepard/shepard_3.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2,
+        "code": "01021",
+        "setType": "Backgrounds",
+        "set": "shepard"
+    },
+    {
+        "name": "Homeward Bound",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_backgrounds/shepard/shepard_4.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2,
+        "code": "01022",
+        "setType": "Backgrounds",
+        "set": "shepard"
+    },
+    {
+        "name": "Paratrepsis Whistle",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_backgrounds/shepard/shepard_5.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2,
+        "code": "01023",
+        "setType": "Backgrounds",
+        "set": "shepard"
+    },
+    {
+        "name": "A Deeper Understanding",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_backgrounds/shepard/shepard_6.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2,
+        "code": "01024",
+        "setType": "Backgrounds",
+        "set": "shepard"
+    },
+    {
+        "name": "Healing Touch",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_backgrounds/shepard/shepard_7.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2,
+        "code": "01025",
+        "setType": "Backgrounds",
+        "set": "shepard"
+    },
+    {
+        "name": "Calming Presence",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_backgrounds/shepard/shepard_8.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2,
+        "code": "01026",
+        "setType": "Backgrounds",
+        "set": "shepard"
+    },
+    {
+        "name": "Oru the Sheep Dog",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/ranger_backgrounds/shepard/shepard_9.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "qtd": 2,
+        "code": "01027",
+        "setType": "Backgrounds",
+        "set": "shepard"
+    }
+]
