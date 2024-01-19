@@ -1,8 +1,8 @@
 [
     {
         "name": "Lingering Injury",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/rewards/reward_1.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/rewards/reward_1.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_card_back.png",
         "qtd": 2,
         "setType": "Miscellaneous",
         "set": "malady",

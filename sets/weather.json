@@ -1,8 +1,8 @@
 [
     {
         "name": "A Perfect Day / Midday Sun",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_1.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_2.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/weather/weather_1.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/weather/weather_2.png",
         "qtd": 1,
         "setType": "Miscellaneous",
         "set": "weather",
@@ -10,8 +10,8 @@
     },
     {
         "name": "Downpour / Gathering Storm",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_3.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_4.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/weather/weather_3.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/weather/weather_4.png",
         "qtd": 1,
         "setType": "Miscellaneous",
         "set": "weather",
@@ -19,8 +19,8 @@
     },
     {
         "name": "Howling Winds / Thunderhead",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_5.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_6.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/weather/weather_5.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/weather/weather_6.png",
         "qtd": 1,
         "setType": "Miscellaneous",
         "set": "weather",
@@ -28,8 +28,8 @@
     },
     {
         "name": "Electric Fog / Clinging Mist",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_7.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_8.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/weather/weather_7.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/weather/weather_8.png",
         "qtd": 1,
         "setType": "Miscellaneous",
         "set": "weather",

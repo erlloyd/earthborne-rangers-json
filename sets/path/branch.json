@@ -2,40 +2,40 @@
     {
         "name": "Elder Tesoral Hale",
         "code": "branch-1",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/path/branch/branch_1.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/branch/branch_1.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
         "setType": "Path",
         "set": "branch"
     },
     {
         "name": "Lyn Mira, Woodworker",
         "code": "branch-2",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/path/branch/branch_2.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/branch/branch_2.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
         "setType": "Path",
         "set": "branch"
     },
     {
         "name": "Seilo Griss, Apiarist",
         "code": "branch-3",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/path/branch/branch_3.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/branch/branch_3.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
         "setType": "Path",
         "set": "branch"
     },
     {
         "name": "Evergreen Hall",
         "code": "branch-4",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/path/branch/branch_4.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/branch/branch_4.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
         "setType": "Path",
         "set": "branch"
     },
     {
         "name": "The Hornbranch",
         "code": "branch-5",
-        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/path/branch/branch_5.png",
-        "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
+        "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/branch/branch_5.png",
+        "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
         "setType": "Path",
         "set": "branch"
     }
