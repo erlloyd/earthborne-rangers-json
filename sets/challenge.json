@@ -5,7 +5,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-1"
     },
     {
         "name": "Challenge 2",
@@ -13,7 +14,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-2"
     },
     {
         "name": "Challenge 3",
@@ -21,7 +23,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-3"
     },
     {
         "name": "Challenge 4",
@@ -29,7 +32,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-4"
     },
     {
         "name": "Challenge 5",
@@ -37,7 +41,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-5"
     },
     {
         "name": "Challenge 6",
@@ -45,7 +50,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-6"
     },
     {
         "name": "Challenge 7",
@@ -53,7 +59,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-7"
     },
     {
         "name": "Challenge 8",
@@ -61,7 +68,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-8"
     },
     {
         "name": "Challenge 9",
@@ -69,7 +77,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-9"
     },
     {
         "name": "Challenge 10",
@@ -77,7 +86,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-10"
     },
     {
         "name": "Challenge 11",
@@ -85,7 +95,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-11"
     },
     {
         "name": "Challenge 12",
@@ -93,7 +104,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-12"
     },
     {
         "name": "Challenge 13",
@@ -101,7 +113,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-13"
     },
     {
         "name": "Challenge 14",
@@ -109,7 +122,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-14"
     },
     {
         "name": "Challenge 15",
@@ -117,7 +131,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-15"
     },
     {
         "name": "Challenge 16",
@@ -125,7 +140,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-16"
     },
     {
         "name": "Challenge 17",
@@ -133,7 +149,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-17"
     },
     {
         "name": "Challenge 18",
@@ -141,7 +158,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-18"
     },
     {
         "name": "Challenge 19",
@@ -149,7 +167,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-19"
     },
     {
         "name": "Challenge 20",
@@ -157,7 +176,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-20"
     },
     {
         "name": "Challenge 21",
@@ -165,7 +185,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-21"
     },
     {
         "name": "Challenge 22",
@@ -173,7 +194,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-22"
     },
     {
         "name": "Challenge 23",
@@ -181,7 +203,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-23"
     },
     {
         "name": "Challenge 24",
@@ -189,6 +212,7 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_challenge_card_back.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "challenge"
+        "set": "challenge",
+        "code": "challenge-24"
     }
 ]
