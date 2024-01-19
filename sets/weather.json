@@ -5,7 +5,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_2.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "weather"
+        "set": "weather",
+        "code": "weather-1"
     },
     {
         "name": "Downpour / Gathering Storm",
@@ -13,7 +14,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_4.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "weather"
+        "set": "weather",
+        "code": "weather-2"
     },
     {
         "name": "Howling Winds / Thunderhead",
@@ -21,7 +23,8 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_6.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "weather"
+        "set": "weather",
+        "code": "weather-3"
     },
     {
         "name": "Electric Fog / Clinging Mist",
@@ -29,6 +32,7 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/weather/weather_8.png",
         "qtd": 1,
         "setType": "Miscellaneous",
-        "set": "weather"
+        "set": "weather",
+        "code": "weather-4"
     }
 ]
