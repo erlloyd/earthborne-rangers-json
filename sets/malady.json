@@ -5,6 +5,7 @@
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-300/earthborne_rangers/misc/earthborne_rangers_card_back.png",
         "qtd": 2,
         "setType": "Miscellaneous",
-        "set": "malady"
+        "set": "malady",
+        "code": "malady-1"
     }
 ]
