@@ -4,7 +4,7 @@
         "code": "spire-1",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/spire/spire_1.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
-        "setType": "Path",
+        "setType": "Path Sets",
         "set": "spire"
     },
     {
@@ -12,7 +12,7 @@
         "code": "spire-2",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/spire/spire_2.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
-        "setType": "Path",
+        "setType": "Path Sets",
         "set": "spire"
     },
     {
@@ -20,7 +20,7 @@
         "code": "spire-3",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/spire/spire_3.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
-        "setType": "Path",
+        "setType": "Path Sets",
         "set": "spire"
     },
     {
@@ -28,7 +28,7 @@
         "code": "spire-4",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/spire/spire_4.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
-        "setType": "Path",
+        "setType": "Path Sets",
         "set": "spire"
     },
     {
@@ -36,7 +36,7 @@
         "code": "spire-5",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/spire/spire_5.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
-        "setType": "Path",
+        "setType": "Path Sets",
         "set": "spire"
     },
     {
@@ -44,7 +44,7 @@
         "code": "spire-6",
         "frontImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/path/spire/spire_6.png",
         "backImage": "https://ik.imagekit.io/cardtable/tr:w-400/earthborne_rangers/misc/earthborne_rangers_path_card_back.png",
-        "setType": "Path",
+        "setType": "Path Sets",
         "set": "spire"
     }
 ]
